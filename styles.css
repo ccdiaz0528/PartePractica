@@ -1,0 +1,23 @@
+img {
+    width: 300px;
+    height: auto;
+    margin-top: 20px;
+}
+h1 {
+    font-size: 2em;
+    color: #333;
+}
+p {
+    font-size: 1em;
+    color: #666;
+}
+a {
+    color: blue;
+}
+body {
+    background-color: #C4D0D7;
+}
+
+.github {
+    width: 30px;
+}
